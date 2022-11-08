@@ -18,3 +18,5 @@ When do i get error ???
 
 
 Another branch sure! Merging with master branch and with not sure branch
+
+Adding this line from the new account
