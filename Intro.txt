@@ -17,6 +17,6 @@ Making some more changes but not sure
 When do i get error ???
 
 
-Another branch sure! Merging with master branch and with not sure branch
+Line 20 changed
 
 Adding this line from the new account
