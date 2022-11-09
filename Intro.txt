@@ -20,3 +20,6 @@ When do i get error ???
 Line 20 changed
 
 Adding this line from the new account
+
+hello from cloned local machine version
+
